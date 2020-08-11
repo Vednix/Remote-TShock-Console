@@ -8,7 +8,7 @@ using TerrariaApi.Server;
 
 namespace RTC_Plugin
 {
-    [ApiVersion(1, 22)]
+    [ApiVersion(2, 1)]
     public class Rtc : TerrariaPlugin
     {
         public static Version buildVersion => Assembly.GetExecutingAssembly().GetName().Version;

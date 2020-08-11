@@ -1,0 +1,17 @@
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\RTC_Plugin.dll
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\RTC_Plugin.pdb
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\ClientServerLib.dll
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\OTAPI.dll
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\TerrariaServer.exe
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\TShockAPI.dll
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\HttpServer.dll
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\MySql.Data.dll
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\BCrypt.Net.dll
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\bin\Debug\ClientServerLib.pdb
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\obj\Debug\RTC_Plugin.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\obj\Debug\RTC_Plugin.csproj.CopyComplete
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\obj\Debug\RTC_Plugin.dll
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\obj\Debug\RTC_Plugin.pdb
+C:\Users\fabio\Downloads\Remote-TShock-Console\TRC_Plugin\obj\Debug\RTC_Plugin.csprojAssemblyReference.cache
