@@ -1,9 +1,7 @@
 C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\bin\Debug\RemoteTshockConsole.exe
 C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\bin\Debug\RemoteTshockConsole.pdb
-C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\bin\Debug\ClientServerLib.dll
-C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\bin\Debug\Newtonsoft.Json.dll
-C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\bin\Debug\ClientServerLib.pdb
 C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\obj\Debug\RemoteTshockConsole.csproj.CoreCompileInputs.cache
-C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\obj\Debug\RemoteTshockConsole.csproj.CopyComplete
 C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\obj\Debug\RemoteTshockConsole.exe
 C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\obj\Debug\RemoteTshockConsole.pdb
+C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\obj\Debug\RemoteTshockConsole.csprojAssemblyReference.cache
+C:\Users\fabio\Downloads\Remote-TShock-Console\RemoteTshockConsole\obj\Debug\RemoteTshockConsole.csproj.Fody.CopyLocal.cache
